@@ -1,0 +1,2 @@
+Code for slide deck [Hand Rolled Applicative User Validation Code Kata](https://fpilluminated.com/deck/224)
+<img src="https://fpilluminated.s3.eu-west-2.amazonaws.com/slide-decks/2024-06-09-hand-rolled-applicative-user-validation-code-kata/2024-06-09-hand-rolled-applicative-user-validation-code-kata-first-slide-large.png">
